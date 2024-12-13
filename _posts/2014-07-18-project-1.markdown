@@ -1,15 +1,17 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Hotel BFE
+subtitle: "Gold: Sensual + Alluring"
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: grass_blue_eyes.jpg
+thumbnail: grass_blue_eyes.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: $400/hr
+link: https://mylo-ryn.tryst.link/#rates
+location: Boston + Beyond. Tour Dates.
+location_link: https://mylo-ryn.tryst.link/#availability
+description: Dinner dates, cuddles, full service empathic attention. 
 
 ---

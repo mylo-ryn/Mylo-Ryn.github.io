@@ -1,15 +1,17 @@
 ---
-title: Escape
-subtitle: Website Design
+title: "Virtual: Only Fans"
+subtitle: $15 a Month
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: shirtless_glasses.jpg
+thumbnail: shirtless_glasses.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: $15/month
+link: https://onlyfans.com/mylo-ryn
+location: Your Safe Place
+location_link: https://onlyfans.com/mylo-ryn
+description: Watch me, engage, request custom videos. 
 
 ---
