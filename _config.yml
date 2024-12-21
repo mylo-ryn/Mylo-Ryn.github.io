@@ -3,9 +3,16 @@ baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Mylo Ryn
-email: myloryn@riseup.net
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
+# Contact info.
+author: Mylo Ryn
+email: myloryn@riseup.net
+phone: "+9785476792"
+
+contact_template: >-
+  Hi Mylo, I saw your website and would like to book
+  an INCALL/OUTCALL on __ for __ hours.
 
 # Team names, titles and social links
 people:
