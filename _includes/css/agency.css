@@ -325,7 +325,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+    padding: 40px 0; /* Reduced from 100px */
 }
 
 section h2.section-heading {
@@ -345,7 +345,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 60px 0;  /* Reduced from 150px */
     }
 }
 
@@ -688,6 +688,64 @@ aside.clients img {
       max-width: 150px;
     }
   }
+
+  #rates {
+    padding: 100px 0;
+}
+
+#rates .rates-container {
+    display: flex;
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#rates .column {
+    flex: 1;
+    background-color: #fff;
+}
+
+#rates .rate-item {
+    border-bottom: 1px solid #f1f1f1;
+    padding: 15px 0;
+}
+
+#rates .rate-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 5px;
+}
+
+#rates .rate-title {
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+}
+
+#rates .rate-price {
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #{{ site.data.template.color.primary }};
+}
+
+#rates .rate-description {
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    color: #777;
+    line-height: 1.75;
+}
+
+@media(max-width:768px) {
+    #rates .rates-container {
+        flex-direction: column;
+        gap: 20px;
+        padding: 0 15px;
+    }
+}
 
 section#contact {
     background-color: #222;
