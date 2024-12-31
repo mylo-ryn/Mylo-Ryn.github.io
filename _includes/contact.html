@@ -26,10 +26,11 @@
             {% endfor %}
         </div><!-- .row -->
         <!-- Contact Information -->
-        {% comment %}
         <!-- The Form -->
         <div class="row">
             <div class="col-lg-12">
+                {% include google-calendar-appointment-booking-form.html %}
+                {% comment %}
                 <form name="sentMessage" id="contactForm" novalidate>
                     <div class="row">
                         <!-- Left Column -->
@@ -124,8 +125,8 @@
                         </div>
                     </div>
                 </form>
+                {% endcomment %}
             </div>
         </div>
-        {% endcomment %}
     </div>
 </section>
