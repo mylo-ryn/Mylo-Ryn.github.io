@@ -1,8 +1,8 @@
 ---
-title: The Backcountry
-subtitle: "Titanium: Exotic + Adventurous"
+title: The Wilds
+subtitle: 
 layout: default
-modal-id: 4
+modal-id: 3
 date: 2014-07-15
 img: backpacking.jpg
 thumbnail: backpacking.jpg

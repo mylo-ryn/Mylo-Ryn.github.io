@@ -1,6 +1,6 @@
 ---
-title: Hotel BFE
-subtitle: "Gold: Sensual + Alluring"
+title: Hotel
+subtitle: 
 layout: default
 modal-id: 1
 date: 2014-07-18
