@@ -354,27 +354,25 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-#themes .theme-select {
+.booking-option {
     cursor: pointer;
     transition: all 0.3s ease;
     border: 3px solid transparent;
     border-radius: 8px;
-}
 
-#themes .theme-select:hover {
+}
+.booking-option:hover {
     transform: scale(1.02);
     box-shadow: 0 0 15px #429FAD;
 }
-
-#themes .theme-select.selected {
+.booking-option.selected {
     border-color: #429FAD;
     box-shadow: 
         0 0 15px #429FAD,
         0 0 30px #429FAD;
 }
-
 /* This ensures the hover effect doesn't override the selected state */
-#themes .theme-select.selected:hover {
+.booking-option.selected:hover {
     transform: scale(1.02);
     border: 3px solid #429FAD;
     box-shadow: 
@@ -382,6 +380,7 @@ section h3.section-subheading {
         0 0 30px #429FAD;
 }
 
+/* TODO: Probably remove, or rename for portfolio grid. */
 #locations .locations-item {
     right: 0;
     margin: 0 0 15px;
@@ -458,6 +457,7 @@ section h3.section-subheading {
 #locations * {
     z-index: 2;
 }
+
 
 @media(min-width:767px) {
     #locations .locations-item {

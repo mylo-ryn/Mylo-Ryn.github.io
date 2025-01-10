@@ -1,0 +1,56 @@
+<!-- Services Section -->
+<section id="location">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">2. Choose a Location</h2>
+                {% comment %}
+                <h3 class="section-subheading text-muted">.</h3>
+                {% endcomment %}
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-md-4">
+                <img src="img/locations/rope_hotel.jpg" class="img-responsive booking-option" style=" border-radius: 8px;" alt="" onclick="selectLocation('location1', this)">
+                <h4 class="service-heading">Hotel</h4>
+                <p class="text-muted">Dinner dates, cuddles, full service empathic attention. </p>
+                <a href="https://throne.com/mylo-ryn/collections/gold-sensual-alluring"> Hotel gifts to Spoil me </a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/locations/rope_dungeon.jpg" class="img-responsive booking-option" style=" border-radius: 8px;" alt="" onclick="selectLocation('location2', this)">
+                <h4 class="service-heading">Dungeon</h4>
+                <p class="text-muted">My favorites are Tease & Denial, Bondage with Rope or Medical Restraints, Silly Sadistic Impact, and Sounding. What are you favorites?</p>
+                <a href="https://throne.com/mylo-ryn/collections/diamond-binding-impactful"> Dungeon gifts to Spoil me </a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/locations/naked_hawaii.jpg" class="img-responsive booking-option" style=" border-radius: 8px;" alt="" onclick="selectLocation('location3', this)">
+                <h4 class="service-heading">The Wilds</h4>
+                <p class="text-muted">Why limit yourself to the resturant and hotel experience? Let me be a guide that can take you deeper than REI. I've backpacked the Artic Natinal Wildlife Refuge in AK, Applachian Trail in MA/NH/MA, Long Trail in VT, Joshua Tree National Park, and  many other East Coast destinations. During the day, we'll explore the wonders of nature, stretching our legs under the big sky. A trail dinner, and then cuddle in close to keep each other warm on those chilly nights, as the sun drops away behind the mountains and the stars sparkle overhead as if shining just for us. References required for remote location overnights.</p>
+                <a href="https://throne.com/mylo-ryn/collections/titanium-exotic-adventurous"> Wilds gifts to Spoil me </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Add this script section -->
+<script>
+function selectLocation(location, element) {
+    // First remove 'selected' class from all images
+    document.querySelectorAll('.booking-option').forEach(img => {
+        img.classList.remove('selected');
+    });
+    
+    // Add 'selected' class to clicked image
+    element.classList.add('selected');
+    
+    // Fill in the city field
+    document.getElementById('locationContact').value = location;
+    
+    // Smooth scroll to contact section
+    //document.getElementById('contact').scrollIntoView({ 
+    //    behavior: 'smooth',
+    //    block: 'start'
+    //});
+}
+</script>
+
