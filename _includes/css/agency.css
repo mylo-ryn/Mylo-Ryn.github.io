@@ -354,6 +354,13 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+#bio p:not(:last-child)::after {
+    content: ".";
+    display: block;
+    font-size: xx-large;
+    line-height: 1em;
+}
+
 .booking-option {
     cursor: pointer;
     transition: all 0.3s ease;
