@@ -28,3 +28,16 @@ View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-th
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
+
+# Developing locally
+
+1. Use [Bundler](https://bundler.io/) to install [Jekyll](https://jekyllrb.com/):
+    ```sh
+    bundle config set path vendor/bundle
+    bundle install
+    ```
+
+1. [Run the Jekyll development server](https://jekyllrb.com/docs/usage/):
+``` bash
+bundle exec jekyll server
+```

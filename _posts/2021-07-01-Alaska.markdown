@@ -1,0 +1,17 @@
+---
+title: Backpacking the Alaskian Wilderness
+subtitle: 
+layout: default
+modal-id: 3
+date: 2021-07-01
+img: backpacking.jpg
+thumbnail: backpacking.jpg
+alt: image-alt
+project-date: July 2021
+client: "Tour Company: Big Wild Adventures" 
+link: https://www.bigwildadventures.com/information/alaska-backpacking/
+location: Artic National Wildlife Refuge
+location_link: https://www.fws.gov/refuge/arctic
+description: Backpacked the Artic Natinal Wildlife Refuge in AK. Dropped off at the Marsh Fork of the Canning River by small Cessena. We cut our own trails through the valleys of the high Artic mountains. Elk and small ground squirrels were company in the willow trees. With 23hrs of daylight, the sun never sets on your dreams.
+
+---
