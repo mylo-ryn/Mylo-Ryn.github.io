@@ -2,13 +2,13 @@
 title: Backpacking the Alaskian Wilderness
 subtitle: 
 layout: default
-modal-id: 3
+modal-id: 1
 date: 2021-07-01
 img: backpacking.jpg
 thumbnail: backpacking.jpg
 alt: image-alt
 project-date: July 2021
-client: "Tour Company: Big Wild Adventures" 
+client: "Big Wild Adventures" 
 link: https://www.bigwildadventures.com/information/alaska-backpacking/
 location: Artic National Wildlife Refuge
 location_link: https://www.fws.gov/refuge/arctic

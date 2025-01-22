@@ -2,13 +2,13 @@
 title: Backpacking Joshua Tree
 subtitle: 
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2014-07-16
 img: joshua-tree.jpg
 thumbnail: joshua-tree.jpg
 alt: image-alt
 project-date: April 2014
-client: "Tour Company: REI" 
+client: "REI" 
 link: https://www.rei.com/adventures/resources/faqs
 location: Joshua Tree National Park
 location_link: https://www.nationalparks.org/explore/parks/joshua-tree-national-park

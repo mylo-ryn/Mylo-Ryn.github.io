@@ -1,0 +1,17 @@
+---
+title: Shabari in Hawaii
+subtitle: 
+layout: default
+modal-id: 6
+date: 2014-07-16
+img: me-vi-hawaii-hotel.jpg
+thumbnail: me-vi-hawaii-tree.jpg
+alt: image-alt
+project-date: April 2023
+client: Self-guided
+link: https://www.gohawaii.com/islands/hawaii-big-island/regions/puna
+location: Puna Coastline on Big Island + Honolulu on Ohau
+location_link: https://www.gohawaii.com/islands/hawaii-big-island/regions/puna
+description: Experience the sunshine and warmth of the Pacific Islands. Tied up my favorite rope bunny on the Puna Coastline, delighting in the ocean waves and crisp breezes. Traded sunscreen for a pool cue, to shoot our way through Honolulu's nightlife. Jungle and beaches, the ultimate escape from the usual. 
+
+---
