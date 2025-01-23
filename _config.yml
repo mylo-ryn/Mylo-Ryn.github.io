@@ -3,7 +3,9 @@ baseurl:
 
 # Site settings
 title: Mylo Ryn
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: >
+  Adventure companion for incredible adventure seekers. Silly and sassy.
+  Tattooed and travel-sized trans dominant twink.
 
 # Contact info.
 author: Mylo Ryn
@@ -12,7 +14,7 @@ phone: "+9785476792"
 
 contact_template: >-
   Hi Mylo, I saw your website and would like to book
-  a GOLD/DIAMIND/TITANIUM theme at LOCATION on __ for __ hours.
+  a SWEET/SPICY theme at LOCATION on __ for __ hours.
 
 # Team names, titles and social links
 people:
