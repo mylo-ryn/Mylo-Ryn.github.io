@@ -1,5 +1,5 @@
 ---
-title: Shabari in Hawaii
+title: Shibari in Hawaii
 subtitle: 
 layout: default
 modal-id: 6
